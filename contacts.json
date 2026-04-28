@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "ALI Umer",
+        "phone": "03126571098",
+        "email": "umer@gmail.com",
+        "city": "ISB",
+        "company": "Trc LTD"
+    },
+    {
+        "id": 2,
+        "name": "abeera khan",
+        "phone": "0312456789",
+        "email": "ab@hmail.com",
+        "city": "rwp",
+        "company": "tec solution"
+    },
+    {
+        "id": 3,
+        "name": "Ali Hassan",
+        "phone": "03123456789",
+        "email": "hassan@gmail.com",
+        "city": "isb",
+        "company": "arc solutiion"
+    }
+]
